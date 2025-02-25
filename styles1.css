@@ -16,8 +16,8 @@ body{
     width:300px;
 }
 @keyframes example {
-    from {background-color: yellow;}
-    to {background-color: red;}
+    from {background-color: aquamarine;}
+    to {background-color: yellow;}
   }
  .sale{
     width: 100px;
@@ -25,7 +25,7 @@ body{
     border-radius: 50% 50% 50% 50%;
     text-align: center;
     color:blue;
-    background-color: red;
+    background-color: yellow;
     animation-name: example;
     animation-duration: 4s;
     padding-top:40px;
