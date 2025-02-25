@@ -3,7 +3,7 @@
     border : 3x solid rgb(225, 10, 10);
     margin-left: auto;
     margin-right: auto;
+    margin-top:auto;
+    padding-top:20px;
 }
-body{
-    background-color: #7DAF9C;
-}
+

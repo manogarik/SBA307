@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+.storehead
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #0DE291;
+    font-weight: bold;
+}
+.storehead h3{
+    color:darkblue;
+    padding-left: 20px;
+}
+.picture img:hover{
+    height:300px;
+    width:300px;
+}
+@keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
+ . sale{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+  } 
