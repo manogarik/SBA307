@@ -6,4 +6,13 @@
     margin-top:auto;
     padding-top:20px;
 }
-
+.storehead
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #0DE291;
+    font-weight: bold;
+}
+.storehead h3{
+    color:darkblue;
+    padding-left: 20px;
+}

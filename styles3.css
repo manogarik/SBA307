@@ -13,14 +13,13 @@
     border:5px solid blueviolet;
     font-family: 'Times New Roman', Times, serif;
 }
-@keyframes example {
-    from {background-color: red;}
-    to {background-color: yellow;}
-  }
- .table {
-    width: 200px;
-    height: 200px;
-    background-color: red;
-    animation-name: example;
-    animation-duration: 4s;
-  }
+.storehead
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #0DE291;
+    font-weight: bold;
+}
+.storehead h3{
+    color:darkblue;
+    padding-left: 20px;
+}
